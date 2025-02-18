@@ -2,7 +2,7 @@
 
 ### Ariane Guimarães [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-9276-3686), Pablo Silva [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5800-9268), Daniel Paiva Silva [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-2457-6245)
 
-![](./Graphical-Abstract-Guimaraes-et-al.png)
+![](./Images/Graphical-Abstract-Guimaraes-et-al.png)
 
 #### **Abstract**:  
 
